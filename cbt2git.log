@@ -1,0 +1,17 @@
+2023-08-06 07:46:17.317987 - Initialized conversion of CBT819
+2023-08-06 07:46:17.449770 - Received CBT.V505.FILE819.PDS from FILE819.XMI 
+2023-08-06 07:46:17.452118 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE819.PDS, moved to PDS/$$$#DATE
+2023-08-06 07:46:17.453111 - Found $$DOC.txt (text/plain) in CBT.V505.FILE819.PDS, moved to PDS/$$DOC
+2023-08-06 07:46:17.454060 - Found $$NOTE1.txt (text/plain) in CBT.V505.FILE819.PDS, moved to PDS/$$NOTE1
+2023-08-06 07:46:17.455291 - Found $CHANGES.txt (text/plain) in CBT.V505.FILE819.PDS, moved to PDS/$CHANGES
+2023-08-06 07:46:17.456168 - Found $INSTALL.txt (text/plain) in CBT.V505.FILE819.PDS, moved to PDS/$INSTALL
+2023-08-06 07:46:17.456177 - Found $OBJECT.bin containing application/octet-stream, moved to PDS/$OBJECT
+2023-08-06 07:46:17.457960 - Found @FILE819.txt (text/plain) in CBT.V505.FILE819.PDS, moved to PDS/@FILE819
+2023-08-06 07:46:17.458870 - Found ASSEM.txt (text/plain) in CBT.V505.FILE819.PDS, moved to PDS/ASSEM
+2023-08-06 07:46:17.459781 - Found COPYHELP.txt (text/plain) in CBT.V505.FILE819.PDS, moved to PDS/COPYHELP
+2023-08-06 07:46:17.460660 - Found HELPICH.txt (text/plain) in CBT.V505.FILE819.PDS, moved to PDS/HELPICH
+2023-08-06 07:46:17.461555 - Found ICH.rexx (text/plain) in CBT.V505.FILE819.PDS, moved to PDS/ICH
+2023-08-06 07:46:17.462510 - Found ICHLOADR.txt (text/plain) in CBT.V505.FILE819.PDS, moved to PDS/ICHLOADR
+2023-08-06 07:46:17.463374 - Found LINKEDIT.txt (text/plain) in CBT.V505.FILE819.PDS, moved to PDS/LINKEDIT
+2023-08-06 07:46:17.464224 - Found PROGCNTL.txt (text/plain) in CBT.V505.FILE819.PDS, moved to PDS/PROGCNTL
+2023-08-06 07:46:17.465185 - Found SAMPDISP.txt (text/plain) in CBT.V505.FILE819.PDS, moved to PDS/SAMPDISP
